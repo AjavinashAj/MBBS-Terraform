@@ -1,7 +1,6 @@
 rgs = {
-  rg1={
-
-    name="rg-mbbs"
-    location="centralindia"
+  rg1 = {
+    name     = "rg-mbbs-jenkins"
+    location = "centralindia"
   }
 }
